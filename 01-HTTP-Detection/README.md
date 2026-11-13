@@ -29,7 +29,7 @@ Suricata generó una alerta con los siguientes datos:
 | Campo                 | Valor           |
 |-----------------------|-----------------|
 | Signature ID          | 1000001         |
-| IP origen             | 127.0.0.        |
+| IP origen             | 127.0.0.1        |
 | IP destino            | 127.0.0.1       |
 | Puerto destino        | 8000            |
 | Método HTTP           | GET             |
