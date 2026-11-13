@@ -23,15 +23,15 @@ Analizar múltiples intentos fallidos de autenticación SSH, identificar patrone
 
 ## Evidencia obtenida
 
-| Campo             | Resultado    |
-|----------------------------------|
-| Intentos fallidos | 5            |
-| IP de origen      | 127.0.0.1    |
-| Usuario objetivo  | kali         |
-| Puerto de destino | 2222         |
-| Primer intento    | 19:02:08     |
-| Último intento    | 19:03:53     |
-| Intervalo total   | 105 segundos |
+| Campo | Resultado |
+|---|---|
+| Intentos fallidos | 5 |
+| IP de origen | `127.0.0.1` |
+| Usuario objetivo | `kali` |
+| Puerto de destino | `2222` |
+| Primer intento | `19:02:08` |
+| Último intento | `19:03:53` |
+| Intervalo total | 105 segundos |
 
 Todos los intentos provinieron de la misma dirección IP y utilizaron diferentes puertos de origen.
 
