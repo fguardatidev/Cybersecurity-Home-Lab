@@ -1,0 +1,22 @@
+# Archivos de captura
+*.pcap
+*.pcapng
+
+# Logs del laboratorio
+*.log
+eve.json
+fast.log
+stats.log
+
+# Credenciales y claves
+*.pem
+*.key
+id_rsa
+id_ed25519
+.env
+.env.*
+
+# Archivos temporales
+*.tmp
+*.swp
+.DS_Store

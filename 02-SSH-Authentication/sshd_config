@@ -1,0 +1,8 @@
+Port 2222
+ListenAddress 127.0.0.1
+PasswordAuthentication yes
+KbdInteractiveAuthentication no
+PubkeyAuthentication no
+PermitRootLogin no
+UsePAM yes
+LogLevel VERBOSE
